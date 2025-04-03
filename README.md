@@ -5,16 +5,13 @@ Lean AI and machine learning, Generative AI, AI Agents
 
 Conda create -p test python==3.12
 
-# To activate this environment, use
-#
-#     $ conda activate test
-#
-# To deactivate an active environment, use
-#
-#     $ conda deactivate
+To activate this environment, use
+$ conda activate test
 
-# Add API key in .env file
+To deactivate an active environment, use  $ conda deactivate
 
-# to activate ipynb kernel
+Add API key in .env file
+
+to activate ipynb kernel
 pip install ipykernel
 
